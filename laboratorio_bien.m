@@ -3,6 +3,7 @@
 %otra modificación quisio
 %una mas 
 %Imagen Blanco, Balance 05
+%no se que estoy haciendo 
 
 eb=imread('5072018rawbug05.arw');
 %imshow(eb)
