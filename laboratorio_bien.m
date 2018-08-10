@@ -1,5 +1,4 @@
 %%
-%Estoy haciendo una modificación- soy vale
 %quisio
 %otra modificación quisio
 %una mas 
